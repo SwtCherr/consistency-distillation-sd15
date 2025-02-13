@@ -1,6 +1,6 @@
 # Consistency Distillation of Stable Diffusion 1.5 for Fast Image Generation
 
-This project was completed as part of CV-week (YSDA). The goal was to implement *Consistency Distillation* to accelerate image generation using *Stable Diffusion 1.5* (SD1.5) by distilling the original multi-step diffusion process into a 4-step student model while maintaining high image quality.
+This project was completed as part of CV-week (YSDA). The goal was to implement *Consistency Distillation* to accelerate image generation using *Stable Diffusion 1.5* by distilling the original multi-step diffusion process into a 4-step student model while maintaining high image quality.
 
 ### **Project Overview:**
 - Implemented **Consistency Distillation** for Stable Diffusion 1.5 to reduce inference steps from 50 to 4, ensuring efficient image generation.
